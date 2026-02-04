@@ -1,1 +1,1 @@
-practiced basic html and css.
+html-css-practice.
