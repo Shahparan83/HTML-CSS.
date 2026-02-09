@@ -1,0 +1,16 @@
+/* Parent_box */
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: green; 
+    font-size: 10px;
+}
+/* Child_box */
+#box2{
+    height: 50px;
+    width:30%;
+    background-color:yellow;
+    margin-left: 10px;
+    font-size: 2em;
+    width: 3rem;
+}
