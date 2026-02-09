@@ -18,3 +18,19 @@ a{
     margin-right: 200px;
     text-decoration: none;
 }
+
+.contentBox{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    display:inline-block;
+    
+}
+footer{
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+#content{
+    height: 800px;
+}
