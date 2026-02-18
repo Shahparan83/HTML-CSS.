@@ -1,0 +1,32 @@
+.navbar{
+    background-color: lightpink;
+  display: flex;
+  justify-content: space-evenly;
+    
+}
+a{
+    text-decoration: none;
+    color: red;
+
+}
+li{
+    list-style-type: none;
+
+    /* background-color:white; */
+}
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color: darkorchid;
+    align-self: self-start; 
+    /* align self has higher priority than align-items, so it will override the align-items property of the parent container and align itself to the start of the cross axis, which is the top of the container in this case. */
+}
